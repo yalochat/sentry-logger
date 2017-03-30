@@ -1,0 +1,42 @@
+{
+  "name": "yalo-raven",
+  "version": "0.0.1",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "npm test",
+    "gulp:test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yalochat/yalo-raven.git"
+  },
+  "keywords": [
+    "sentry",
+    "logger",
+    "raven",
+    "joi"
+  ],
+  "author": "Yalo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yalochat/yalo-raven/issues"
+  },
+  "homepage": "https://github.com/yalochat/yalo-raven#readme",
+  "devDependencies": {
+    "bucker": "^1.1.1",
+    "code": "^4.0.0",
+    "dotenv": "^4.0.0",
+    "gulp": "^3.9.1",
+    "gulp-nodemon": "^2.2.1",
+    "gulp-watch": "^4.3.11",
+    "lab": "^13.0.1",
+    "minimist": "^1.2.0",
+    "require-dir": "^0.3.1",
+    "sinon": "^2.1.0"
+  },
+  "dependencies": {
+    "joi": "^10.3.1",
+    "raven": "^1.2.0"
+  }
+}
