@@ -1,6 +1,6 @@
 {
   "name": "yalo-raven",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Yalo Raven is a wrapper for Raven a standalone node.js client for Sentry",
   "main": "lib/index.js",
   "scripts": {
